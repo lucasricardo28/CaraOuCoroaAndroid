@@ -7,4 +7,11 @@
 
     <!--HOME-->
     <string name="tutorial_1">Clique em sortear \n para tirar\n cara ou coroa</string>
+
+    <string name="name_right">Cara ou Coroa</string>
+    <string name="name_lottery">O lado sorteado foi:</string>
+
+    <string name="text_example">...</string>
+    
+    <string name="back">Voltar</string>
 </resources>
