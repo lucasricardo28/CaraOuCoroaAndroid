@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">caraoucoroa</string>
+
+    <!--SPLASH-->
+    <string name="loading">Carregando...</string>
+    <string name="email_dev">Lucasricardo28@gmail.com</string>
+
+    <!--HOME-->
+    <string name="tutorial_1">Clique em sortear \n para tirar\n cara ou coroa</string>
+</resources>
